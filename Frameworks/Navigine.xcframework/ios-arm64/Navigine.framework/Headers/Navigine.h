@@ -1,12 +1,7 @@
 // Navigine.h
-// Navigine
-
 #import <Foundation/Foundation.h>
 
-//! Project version number for Navigine.
 FOUNDATION_EXPORT double NavigineVersionNumber;
-
-//! Project version string for Navigine.
 FOUNDATION_EXPORT const unsigned char NavigineVersionString[];
 
 #import "NCLifecycleProvider.h"
