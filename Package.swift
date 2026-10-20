@@ -30,8 +30,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Navigine",
-            url: "https://github.com/Navigine/Indoor-Navigation-iOS-Mobile-SDK-2.0-Flutter/releases/download/v.2.29.0/Navigine.xcframework.zip",
-            checksum: "6aa4941f1671567c9ba2ee59c3f54f4acc3ba4a962f60b61c2653d32ad33e3bc"
+            url: "https://github.com/Navigine/Indoor-Navigation-iOS-Mobile-SDK-2.0-Flutter/releases/download/v.2.29.1/Navigine.xcframework.zip",
+            checksum: "CHECKSUM_PLACEHOLDER"
         ),
         .target(
             name: "NavigineDependencies",
